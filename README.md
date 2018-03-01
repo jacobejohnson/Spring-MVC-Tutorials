@@ -1,1 +1,1 @@
-# Spring-MVC-Tutorials
+This repo contains two tutorial projects for learning Spring MVC.  First project is entitled "UserRegistration" and was provided by the instructor. The second project is entitled "CrunchifySrpingMVCTutorial" and can be found at this Crunchify link: https://crunchify.com/simplest-spring-mvc-hello-world-example-tutorial-spring-model-view-controller-tips/ 
